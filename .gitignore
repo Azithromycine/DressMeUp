@@ -1,3 +1,10 @@
+# Content of laravel gitignore
+/public/storage
+/.idea
+Homestead.json
+Homestead.yaml
+
+# Content of auto gitignore
 vendor/
 node_modules/
 
